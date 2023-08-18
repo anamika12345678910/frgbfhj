@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/Si9BA80m8/
